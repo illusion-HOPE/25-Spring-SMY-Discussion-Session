@@ -3,7 +3,7 @@ This is a Advanced Algebra II course website, specifically created for my friend
 
 ---
 
-**Instructor:** Illusion  
+**Instructor:** illusion  
 
 **Time:** Every Monday (19:25-22:00)  
 
