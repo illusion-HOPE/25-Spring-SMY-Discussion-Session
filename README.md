@@ -4,6 +4,8 @@ This is a Advanced Algebra II course website, specifically created for my friend
 ---
 
 **Instructor:** Illusion  
+
 **Time:** Every Monday (19:25-22:00)  
+
 **Course Schedule:** [View the syllabus](https://illusion-hope.github.io/25-Spring-SMY-Discussion-Session/)  
 
